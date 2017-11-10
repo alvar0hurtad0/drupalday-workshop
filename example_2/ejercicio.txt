@@ -1,0 +1,4 @@
+1 Añade una nueva ruta
+/example2-test
+
+Esa ruta debe utilizar otro controlador y mostrar otro texto.
