@@ -1,0 +1,8 @@
+1 prueba a cambiar el nombre de la carpeta.
+2 prueba a cambiar el nombre del fichero.
+3 prueba a cambiar los valores de core en el fichero example_1.info.yml
+4 prueba a quitar las comillas en la descripción del módulo.
+4 prueba a añadir las siguientes líneas en el fichero example_1.info.yml
+dependencies:
+  - drupal:meloheinventado
+  - drupal:example_2

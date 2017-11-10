@@ -1,0 +1,5 @@
+name: Example 2
+type: module
+description: "Segundo ejemplo rutas y código. Objetivos: Entender el sistema de enrutado y dónde se coloca el código."
+package: Drupalday Cáceres
+core: 8.x

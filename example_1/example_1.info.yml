@@ -1,0 +1,5 @@
+name: Example 1
+type: module
+description: "Primer ejemplo el módulo más simple del mundo. Objetivo: entender las dependencias"
+package: Drupalday Cáceres
+core: 8.x
