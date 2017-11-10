@@ -1,0 +1,17 @@
+# Define a route for our event dispatching example.
+example_4.description:
+  path: 'example4'
+  defaults:
+    _controller: '\Drupal\example_4\Controller\ExampleController::build'
+    _title: 'Example 4 hello'
+  requirements:
+    #Look at the dependencies on info.yml file.
+    _permission: 'example 3 access'
+
+example_4.settings:
+  path: '/admin/structure/example4'
+  defaults:
+    _form: '\Drupal\example_4\Form\exampleSettingsForm'
+    _title: 'example form'
+  requirements:
+    _permission: 'administer site configuration'

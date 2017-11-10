@@ -1,0 +1,19 @@
+<?php
+
+/**
+ * @file
+ * Contains example_4.module.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function example_4_theme($existing, $type, $theme, $path) {
+  return [
+    'example_4' => [
+      'variables' => [
+        'test_var' => NULL,
+      ],
+    ],
+  ];
+}

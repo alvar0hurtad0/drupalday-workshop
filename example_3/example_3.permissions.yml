@@ -1,0 +1,5 @@
+# Custom permisions.
+example 3 access:
+  title: 'Example 3 Access'
+  description: 'Gran access to the example page.'
+  restrict access: true

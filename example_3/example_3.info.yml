@@ -1,0 +1,5 @@
+name: Example 3
+type: module
+description: "Tercer ejemplo Permisos y templates. Objetivos: Entender el sistema de permisos, hooks y templates."
+package: Drupalday Cáceres
+core: 8.x

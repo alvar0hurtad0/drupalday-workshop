@@ -1,0 +1,4 @@
+1 prueba a quitar la línea:
+  restrict access: true
+  del fichero de permisos.
+2 Mete una segunda variable en el controlador y mándala a la plantilla.
