@@ -1,4 +1,2 @@
-1 Añade una nueva ruta
-/example2-test
-
-Esa ruta debe utilizar otro controlador y mostrar otro texto.
+1 crea otro formatter para el campo
+2 crea otro widget para el campo
